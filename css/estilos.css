@@ -1,0 +1,53 @@
+.body {
+    font-family: Arial, sans-serif;
+}
+
+.purple-bg { 
+    background-color: #8658e8; 
+    color: white; 
+}
+
+.blue-bg { 
+    background-color: #4285f4; 
+    color: white; 
+}
+
+.teal-bg { 
+    background-color: #00a19c; 
+    color: white; 
+}
+
+.card {
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+.icon { 
+    font-size: 24px; 
+    margin-bottom: 10px;
+    display: block;
+}
+
+.row p {
+    font-size: 0.8rem;
+    margin-bottom: 0;
+}
+
+.col {
+    padding: 10px;
+}
